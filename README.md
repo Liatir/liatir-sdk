@@ -1,5 +1,7 @@
 # Liatir SDK
 
+![License: Apache 2.0](https://img.shields.io/badge/license-Apache%202.0-lightgrey.svg)
+
 Public developer-facing packages for building, validating, and packaging Liatir plugins.
 
 For the sdk documentation visit the **[Liatir plugin section](https://liatir.com/plugins/overview)**.
